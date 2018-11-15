@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Walkthrough_Creating_Table/Form1.cs) (VB: [Form1.vb](./VB/Walkthrough_Creating_Table/Form1.vb))
+* [Program.cs](./CS/Walkthrough_Creating_Table/Program.cs) (VB: [Program.vb](./VB/Walkthrough_Creating_Table/Program.vb))
+<!-- default file list end -->
 # Table API - Creating table - a simple example
 
 
